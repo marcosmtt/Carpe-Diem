@@ -18,11 +18,14 @@ img{
 }
 
 #layer_1 {
-background: url(images/camada1.png) no-repeat 0px 350px;
+background: url(images/camada1.png) no-repeat 0px 100%;
+background-size: 100%;
 }
 #layer_2 {
-    background: url(images/camada2.png) no-repeat 0px 40px;
+    background: url(images/camada2.png) no-repeat 0px 4em;
+    background-size: 100%;
 }
 #layer_3 {
     background: url(images/camada3.png) no-repeat 0px 0px;
+    background-size: 100%;
 }
